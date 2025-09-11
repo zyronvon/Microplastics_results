@@ -1,0 +1,4 @@
+﻿filename,predicted_class,confidence,correct
+WhatsApp Image 2025-09-11 at 13.36.32_19bfebe4.jpg,non_plastic,1.0,True
+WhatsApp Image 2025-09-11 at 13.37.19_5bdf5152.jpg,plastic,0.5750606060028076,False
+WhatsApp Image 2025-09-11 at 13.41.12_57b8fa34.jpg,plastic,0.9999992251396179,True
