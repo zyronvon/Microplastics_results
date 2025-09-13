@@ -1,2 +1,2 @@
 ﻿filename,true_class,predicted_class,confidence,prediction_time_ms,timestamp,p_plastic,p_non_plastic,uncertain,correct
-WhatsApp Image 2025-09-11 at 13.36.32_19bfebe4 - Copy (2).jpg,unknown,non_plastic,1.0,87.59,2025-09-13T02:05:16.622186,7.408168523070913e-10,1.0,False,True
+20250913-093026-139.jpg,unknown,non_plastic,1.0,93.39,2025-09-13T09:30:45.879676,3.469313725190659e-09,1.0,False,True
