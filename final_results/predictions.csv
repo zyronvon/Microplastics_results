@@ -1,2 +1,2 @@
 ﻿filename,true_class,predicted_class,confidence,prediction_time_ms,timestamp,p_plastic,p_non_plastic,uncertain,correct
-20250919-155447-500.jpg,unknown,non_plastic,0.9960823059082031,100.62,2025-09-19T15:54:54.641078,0.003917718306183815,0.9960823059082031,False,True
+20250919-155457-748.jpg,unknown,plastic,0.999553382396698,97.95,2025-09-19T15:55:24.889600,0.999553382396698,0.00044661760330200195,False,True
